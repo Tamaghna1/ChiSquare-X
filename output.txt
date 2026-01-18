@@ -1,0 +1,9 @@
+min_sup= 0.1
+The dataset is /content/BMS1_spmf.txt
+Running basic apriori
+min_sup= 0.1
+The dataset is /content/BMS1_spmf.txt
+Running basic apriori
+Time taken: 3285.5398938655853
+Frequent itemsets formed are
+[]
